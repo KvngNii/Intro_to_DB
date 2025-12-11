@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-MySQLServer.py
-A Python script to create the alx_book_store database in MySQL server.
-Handles database creation with proper error handling and connection management.
-"""
 
 import mysql.connector
 
